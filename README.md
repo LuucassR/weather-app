@@ -1,0 +1,1 @@
+This is a simple weather app where toy can display the temp in Celsius entering a city in the input and clicking the "Go" button, it's work with API of https://www.weatherapi.com/
